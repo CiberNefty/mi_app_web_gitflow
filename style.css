@@ -13,20 +13,20 @@ h2 {
 }
 
 h3 {
-    color: #333;
+    color: #9ca087;
 }
 
 
 button {
     padding: 10px 20px;
-    font-size: 16px;
+    font-size: 21px;
     cursor: pointer;
 }
 
 #output {
     margin-top: 20px;
     font-size: 18px;
-    color: #555;
+    color: #c29999;
 }
 
 form {
@@ -54,6 +54,6 @@ input[type="submit"] {
 
 #formOutput {
     margin-top: 20px;
-    font-size: 18px;
+    font-size: 20px;
     color: #555;
 }
